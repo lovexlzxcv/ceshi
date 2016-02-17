@@ -1,12 +1,14 @@
 {
     "name": "lovexlzxcv/ceshi",
     "description": "xl_ceshi",
+    "type": "library",
     "authors": [
         {
             "name": "xu lei",
             "email": "274841360@qq.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
     	"php": ">=5.4.0"
     },
