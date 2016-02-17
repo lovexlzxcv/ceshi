@@ -8,7 +8,7 @@
             "email": "274841360@qq.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "beta",
     "require": {
     	"php": ">=5.4.0"
     },
