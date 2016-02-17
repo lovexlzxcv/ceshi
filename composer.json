@@ -1,0 +1,13 @@
+{
+    "name": "lovexlzxcv/ceshi",
+    "description": "xl_ceshi",
+    "authors": [
+        {
+            "name": "xu lei",
+            "email": "274841360@qq.com"
+        }
+    ],
+    "require": {
+    	"php": ">=5.4.0"
+    }
+}
